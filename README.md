@@ -5,13 +5,13 @@ A small library that add two numbers
 
 ## Installation
 
-  `npm install @jdaudier/add-two-number`
+  `npm install add-two-number`
 
 ## Usage
 
-    var numAdditionar = require('@jdaudier/add-two-number');
+    var numAdditionar = require('add-two-number');
 
-    var formattedNum = numAdditionar(10,30);
+    var sum = numAdditionar(10,30);
   
   
   Output should be `40`
