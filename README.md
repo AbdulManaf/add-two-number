@@ -23,4 +23,14 @@ A small library that add two numbers
 
 ## Contributing
 
+## Usage Example 2 
+
+    var numAdditionar = require('add-two-number');
+
+    var sum = numAdditionar(30,40);
+  
+  
+  Output should be `70`
+	
+
 abdul manaf
